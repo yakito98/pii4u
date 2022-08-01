@@ -7,7 +7,7 @@
                 position: 'down',
                 width: '100%',
                 maxHeight: '250px',
-                api: 'https://pii4u.cf/usr/themes/pigeon/assets/owo/OwO.json'
+                api: 'https://api.anotherhome.net/OwO/OwO.json'
             }
             for (let defaultKey in defaultOption) {
                 if (defaultOption.hasOwnProperty(defaultKey) && !option.hasOwnProperty(defaultKey)) {
