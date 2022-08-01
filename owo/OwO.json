@@ -1,5 +1,5 @@
 {
-    "蛆音娘": {
+    "Quyin": {
         "type": "image",
         "container": [
             {
@@ -124,7 +124,7 @@
             }
         ]
     },
-    "阿鲁": {
+    "Aru": {
         "type": "image",
         "container": [
             {
@@ -501,7 +501,7 @@
             }
         ]
     },
-    "泡泡": {
+    "Paopao": {
         "type": "image",
         "container": [
             {
@@ -872,7 +872,7 @@
             }
         ]
     },
-    "颜文字": {
+    "OwO": {
         "type": "emoticon",
         "container": [
             {
